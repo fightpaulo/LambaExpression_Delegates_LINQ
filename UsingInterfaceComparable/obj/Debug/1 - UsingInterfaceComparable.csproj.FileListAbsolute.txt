@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\UsingInterfaceComparable\bin\Debug\UsingInterfaceComparable.exe.config
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\UsingInterfaceComparable\bin\Debug\UsingInterfaceComparable.exe
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\UsingInterfaceComparable\bin\Debug\UsingInterfaceComparable.pdb
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\UsingInterfaceComparable\obj\Debug\1 - UsingInterfaceComparable.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\UsingInterfaceComparable\obj\Debug\UsingInterfaceComparable.exe
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\UsingInterfaceComparable\obj\Debug\UsingInterfaceComparable.pdb
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\UsingInterfaceComparable\obj\Debug\1 - UsingInterfaceComparable.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\Exercise\bin\Debug\Exercise.exe
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\Exercise\bin\Debug\Exercise.pdb
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\Exercise\obj\Debug\9 - Exercise.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\Exercise\obj\Debug\9 - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\Exercise\obj\Debug\Exercise.exe
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\Exercise\obj\Debug\Exercise.pdb

@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\LINQSimilarSQLNotation\bin\Debug\LINQSimilarSQLNotation.exe.config
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\LINQSimilarSQLNotation\bin\Debug\LINQSimilarSQLNotation.exe
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\LINQSimilarSQLNotation\bin\Debug\LINQSimilarSQLNotation.pdb
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\LINQSimilarSQLNotation\obj\Debug\8 - LINQSimilarSQLNotation.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\LINQSimilarSQLNotation\obj\Debug\8 - LINQSimilarSQLNotation.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\LINQSimilarSQLNotation\obj\Debug\LINQSimilarSQLNotation.exe
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\LINQSimilarSQLNotation\obj\Debug\LINQSimilarSQLNotation.pdb

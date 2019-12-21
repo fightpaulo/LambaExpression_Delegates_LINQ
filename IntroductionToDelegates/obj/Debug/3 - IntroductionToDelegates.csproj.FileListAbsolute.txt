@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\IntroductionToDelegates\bin\Debug\IntroductionToDelegates.exe.config
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\IntroductionToDelegates\bin\Debug\IntroductionToDelegates.exe
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\IntroductionToDelegates\bin\Debug\IntroductionToDelegates.pdb
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\IntroductionToDelegates\obj\Debug\3 - IntroductionToDelegates.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\IntroductionToDelegates\obj\Debug\3 - IntroductionToDelegates.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\IntroductionToDelegates\obj\Debug\IntroductionToDelegates.exe
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\IntroductionToDelegates\obj\Debug\IntroductionToDelegates.pdb

@@ -1,0 +1,6 @@
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegateAction\bin\Debug\DelegateAction.exe.config
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegateAction\bin\Debug\DelegateAction.exe
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegateAction\bin\Debug\DelegateAction.pdb
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegateAction\obj\Debug\5 - DelegateAction.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegateAction\obj\Debug\DelegateAction.exe
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegateAction\obj\Debug\DelegateAction.pdb

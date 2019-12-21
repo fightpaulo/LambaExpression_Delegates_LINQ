@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegateFunc\bin\Debug\DelegateFunc.exe.config
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegateFunc\bin\Debug\DelegateFunc.exe
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegateFunc\bin\Debug\DelegateFunc.pdb
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegateFunc\obj\Debug\DelegateFunc.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegateFunc\obj\Debug\DelegateFunc.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegateFunc\obj\Debug\DelegateFunc.exe
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegateFunc\obj\Debug\DelegateFunc.pdb

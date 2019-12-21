@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\UsingComparisonDelegate\bin\Debug\UsingComparisonDelegate.exe.config
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\UsingComparisonDelegate\bin\Debug\UsingComparisonDelegate.exe
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\UsingComparisonDelegate\bin\Debug\UsingComparisonDelegate.pdb
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\UsingComparisonDelegate\obj\Debug\UsingComparisonDelegate.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\UsingComparisonDelegate\obj\Debug\UsingComparisonDelegate.exe
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\UsingComparisonDelegate\obj\Debug\UsingComparisonDelegate.pdb
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\UsingComparisonDelegate\obj\Debug\UsingComparisonDelegate.csprojAssemblyReference.cache

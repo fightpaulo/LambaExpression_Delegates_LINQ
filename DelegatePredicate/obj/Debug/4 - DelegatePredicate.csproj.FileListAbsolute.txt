@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegatePredicate\bin\Debug\DelegatePredicate.exe.config
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegatePredicate\bin\Debug\DelegatePredicate.exe
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegatePredicate\bin\Debug\DelegatePredicate.pdb
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegatePredicate\obj\Debug\4 - DelegatePredicate.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegatePredicate\obj\Debug\4 - DelegatePredicate.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegatePredicate\obj\Debug\DelegatePredicate.exe
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\DelegatePredicate\obj\Debug\DelegatePredicate.pdb

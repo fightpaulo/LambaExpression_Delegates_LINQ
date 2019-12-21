@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\IntroductionToLINQ\bin\Debug\IntroductionToLINQ.exe.config
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\IntroductionToLINQ\bin\Debug\IntroductionToLINQ.exe
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\IntroductionToLINQ\bin\Debug\IntroductionToLINQ.pdb
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\IntroductionToLINQ\obj\Debug\7 - IntroductionToLINQ.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\IntroductionToLINQ\obj\Debug\7 - IntroductionToLINQ.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\IntroductionToLINQ\obj\Debug\IntroductionToLINQ.exe
+C:\Users\paulo\source\repos\LambdasExpressionsDelegatesLINQ\IntroductionToLINQ\obj\Debug\IntroductionToLINQ.pdb
